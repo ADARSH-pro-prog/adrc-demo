@@ -1,4 +1,4 @@
 # adrc-demo
-First Time
+This is my 1st Github repository.
 <br>
-Author- Adarsh Dutta
+Author- (Adarsh Dutta)
